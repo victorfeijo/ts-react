@@ -1,0 +1,17 @@
+{
+  "name": "ts-react",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Victor Feijo <victor.feijoa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^15.0.14",
+    "@types/react-dom": "^0.14.23",
+    "awesome-typescript-loader": "^3.1.2",
+    "global": "^4.3.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "source-map-loader": "^0.1.6",
+    "typescript": "next"
+  }
+}
